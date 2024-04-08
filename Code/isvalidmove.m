@@ -51,7 +51,6 @@ end
 
 % Le Duong
 % ITP 168 Spring 2023
-% Homework 4
 % Lnduong@usc.edu
 
 % Is Valid Move
